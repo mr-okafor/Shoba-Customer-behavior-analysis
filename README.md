@@ -106,13 +106,7 @@ Provides a high-level view of transaction performance, customer segments, and ke
 
 ![Customer and Sales Overview](images/customer_sales_overview.png)
 
-**2. Product & Promotional Performance**
-
-Explores product category performance, purchasing patterns, and the relationship between discount adoption and average order value.
-
-![Product and Promotional Performance](images/product_promotional_performance.png)
-
-**3. Customer Demographics & Behaviour**
+**2. Customer Demographics & Behaviour**
 
 Provides insights into customer purchasing patterns across demographic segments, including age groups and gender.
 
