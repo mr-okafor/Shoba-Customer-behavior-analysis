@@ -104,13 +104,13 @@ The dashboard is structured to provide visibility into the following business ar
 
 Provides a high-level view of transaction performance, customer segments, and key business indicators.
 
-![Customer and Sales Overview](images/customer_and_sales_overview.png)
+![Customer and Sales Overview](./images/customer_and_sales_overview.png)
 
 **2. Customer Demographics & Behaviour**
 
 Provides insights into customer purchasing patterns across demographic segments, including age groups and gender.
 
-![Customer Demographics and Behaviour](images/customer_behaviour_dashboard.png)
+![Customer Demographics and Behaviour](./images/customer_behaviour_dashboard.png)
 
 
 ---
